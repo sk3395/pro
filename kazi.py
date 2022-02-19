@@ -278,9 +278,9 @@ def menu():
     print ' \t       [\x1b[1;97m\x1b[1;41m  Choose method  \x1b[0m\x1b[1;93m]'.center(50)
     print ''
     print 47 * '\x1b[1;93m\xe2\x96\xac'
-    print '\x1b[1;93m[1] \x1b[1;92m{🔰}CRACK WITH AUTO PASS\n'
-    print '\x1b[1;93m[2] \x1b[1;92m{🔰}CRACK WITH CHOICE DIGIT PASS\n'
-    print '\x1b[1;93m[3] \x1b[1;92m{🔰}BACK'
+    print '\x1b[1;93m[1] \x1b[1;92mCRACK WITH AUTO PASS\n'
+    print '\x1b[1;93m[2] \x1b[1;92mCRACK WITH CHOICE DIGIT PASS\n'
+    print '\x1b[1;93m[3] \x1b[1;92mBACK'
     print 47 * '\x1b[1;93m\xe2\x96\xac'
     print ''
     menu_option()
